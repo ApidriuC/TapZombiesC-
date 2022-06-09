@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaboratorioVI", "LaboratorioVI\LaboratorioVI.csproj", "{85B8F844-D04A-46B7-BFF5-C78308A777BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{5CAA6E79-BEA4-49B1-B839-97ED47EC4D3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85B8F844-D04A-46B7-BFF5-C78308A777BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B8F844-D04A-46B7-BFF5-C78308A777BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B8F844-D04A-46B7-BFF5-C78308A777BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B8F844-D04A-46B7-BFF5-C78308A777BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAA6E79-BEA4-49B1-B839-97ED47EC4D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAA6E79-BEA4-49B1-B839-97ED47EC4D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAA6E79-BEA4-49B1-B839-97ED47EC4D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAA6E79-BEA4-49B1-B839-97ED47EC4D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03BFAAA9-06CF-45C2-84D4-17F98EBC5E4F}
+	EndGlobalSection
+EndGlobal

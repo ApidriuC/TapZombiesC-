@@ -1,0 +1,98 @@
+C:\Users\informatica\Desktop\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.exe.config
+C:\Users\informatica\Desktop\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.exe
+C:\Users\informatica\Desktop\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.pdb
+C:\Users\informatica\Desktop\LaboratorioVI\LaboratorioVI\bin\Debug\Entidades.dll
+C:\Users\informatica\Desktop\LaboratorioVI\LaboratorioVI\bin\Debug\Entidades.pdb
+C:\Users\informatica\Desktop\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csprojAssemblyReference.cache
+C:\Users\informatica\Desktop\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.Form1.resources
+C:\Users\informatica\Desktop\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.Properties.Resources.resources
+C:\Users\informatica\Desktop\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.GenerateResource.cache
+C:\Users\informatica\Desktop\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.CoreCompileInputs.cache
+C:\Users\informatica\Desktop\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.CopyComplete
+C:\Users\informatica\Desktop\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.exe
+C:\Users\informatica\Desktop\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.pdb
+C:\Users\admin\source\repos\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.exe.config
+C:\Users\admin\source\repos\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.exe
+C:\Users\admin\source\repos\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.pdb
+C:\Users\admin\source\repos\LaboratorioVI\LaboratorioVI\bin\Debug\Entidades.dll
+C:\Users\admin\source\repos\LaboratorioVI\LaboratorioVI\bin\Debug\Entidades.pdb
+C:\Users\admin\source\repos\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.Form1.resources
+C:\Users\admin\source\repos\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.Properties.Resources.resources
+C:\Users\admin\source\repos\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.CopyComplete
+C:\Users\admin\source\repos\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.exe
+C:\Users\admin\source\repos\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.pdb
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.exe.config
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.exe
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.pdb
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\LaboratorioVI\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\LaboratorioVI\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.Form1.resources
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.Properties.Resources.resources
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.CopyComplete
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.exe
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.pdb
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.exe.config
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.exe
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.pdb
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.Juego.resources
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.Menu.resources
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.Properties.Resources.resources
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.CopyComplete
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.exe
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.pdb
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.Puntaje.resources
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\bin\Debug\LaboratorioVI.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\bin\Debug\LaboratorioVI.exe
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\bin\Debug\LaboratorioVI.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\bin\Debug\Entidades.dll
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\bin\Debug\Entidades.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\obj\Debug\LaboratorioVI.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\obj\Debug\LaboratorioVI.Juego.resources
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\obj\Debug\LaboratorioVI.Menu.resources
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\obj\Debug\LaboratorioVI.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\obj\Debug\LaboratorioVI.Puntaje.resources
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.CopyComplete
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\obj\Debug\LaboratorioVI.exe
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\LaboratorioVI\obj\Debug\LaboratorioVI.pdb
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES DEFINITIVO\LaboratorioVI\bin\Debug\LaboratorioVI.exe.config
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES DEFINITIVO\LaboratorioVI\bin\Debug\LaboratorioVI.exe
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES DEFINITIVO\LaboratorioVI\bin\Debug\LaboratorioVI.pdb
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES DEFINITIVO\LaboratorioVI\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES DEFINITIVO\LaboratorioVI\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES DEFINITIVO\LaboratorioVI\obj\Debug\LaboratorioVI.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES DEFINITIVO\LaboratorioVI\obj\Debug\LaboratorioVI.Juego.resources
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES DEFINITIVO\LaboratorioVI\obj\Debug\LaboratorioVI.Menu.resources
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES DEFINITIVO\LaboratorioVI\obj\Debug\LaboratorioVI.Properties.Resources.resources
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES DEFINITIVO\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES DEFINITIVO\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES DEFINITIVO\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.CopyComplete
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES DEFINITIVO\LaboratorioVI\obj\Debug\LaboratorioVI.exe
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES DEFINITIVO\LaboratorioVI\obj\Debug\LaboratorioVI.pdb
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.exe.config
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.exe
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\bin\Debug\LaboratorioVI.pdb
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\bin\Debug\Entidades.dll
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\bin\Debug\Entidades.pdb
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.AssemblyReference.cache
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.SuggestedBindingRedirects.cache
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.Juego.resources
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.Menu.resources
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.Properties.Resources.resources
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.GenerateResource.cache
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.CoreCompileInputs.cache
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.csproj.CopyComplete
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.exe
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\LaboratorioVI\obj\Debug\LaboratorioVI.pdb

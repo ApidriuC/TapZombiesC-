@@ -1,0 +1,36 @@
+C:\Users\informatica\Desktop\LaboratorioVI\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\informatica\Desktop\LaboratorioVI\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\informatica\Desktop\LaboratorioVI\Entidades\bin\Debug\Entidades.dll
+C:\Users\informatica\Desktop\LaboratorioVI\Entidades\bin\Debug\Entidades.pdb
+C:\Users\informatica\Desktop\LaboratorioVI\Entidades\obj\Debug\Entidades.dll
+C:\Users\informatica\Desktop\LaboratorioVI\Entidades\obj\Debug\Entidades.pdb
+C:\Users\admin\source\repos\LaboratorioVI\Entidades\bin\Debug\Entidades.dll
+C:\Users\admin\source\repos\LaboratorioVI\Entidades\bin\Debug\Entidades.pdb
+C:\Users\admin\source\repos\LaboratorioVI\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\LaboratorioVI\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LaboratorioVI\Entidades\obj\Debug\Entidades.dll
+C:\Users\admin\source\repos\LaboratorioVI\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\laboratorio Kmi\LaboratorioVI\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\LABORATORIO ZOMBIES\LaboratorioVI\Entidades\bin\Debug\Entidades.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\Entidades\bin\Debug\Entidades.dll
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\Entidades\bin\Debug\Entidades.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\Entidades\obj\Debug\Entidades.dll
+C:\Users\admin\Documents\Visual Studio 2017\Backup Files\repos\Zombies\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\Entidades\bin\Debug\Entidades.dll
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\Entidades\obj\Debug\Entidades.dll
+C:\Users\alondono\Downloads\Nueva carpeta\LaboratorioVI\Entidades\obj\Debug\Entidades.pdb
